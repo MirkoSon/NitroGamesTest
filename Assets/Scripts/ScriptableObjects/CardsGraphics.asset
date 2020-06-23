@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8aeee447b0bc17248a886cc3a17cc404, type: 3}
+  m_Name: CardsGraphics
+  m_EditorClassIdentifier: 
+  emotes:
+  - {fileID: 21300000, guid: 11d40d707da19824896c7291ccb8e990, type: 3}
+  - {fileID: 21300000, guid: a3ef4a9d3211d854fa4125e433c44d3a, type: 3}
+  - {fileID: 21300000, guid: 6bf0fd435449a39489aef023df910752, type: 3}
+  - {fileID: 21300000, guid: 83001aabfea76e04a92aa86367414ded, type: 3}
+  - {fileID: 21300000, guid: 9b20a61550e58f846b1edd8e77237152, type: 3}
+  - {fileID: 21300000, guid: 330b59edc2c2bad499bcc5e22ca87537, type: 3}
+  - {fileID: 21300000, guid: 355b2006c8022624ab342b483603ab44, type: 3}
+  - {fileID: 21300000, guid: 4fc7426f13c7277459bfd4d9b0a59c17, type: 3}
+  - {fileID: 21300000, guid: 7770bc6f28e8dda4bbd69b3f93bf697c, type: 3}
+  - {fileID: 21300000, guid: b5bfc22004cd5ad40b1cac039bf933a4, type: 3}
+  - {fileID: 21300000, guid: 840549c3d936c914fbf5f33fd00902d1, type: 3}
+  - {fileID: 21300000, guid: ebe1a8a8984b8ff4baeb351946f8c1a2, type: 3}
+  - {fileID: 21300000, guid: 3fbd44faeb06d794ba94e2de0d229851, type: 3}
+  - {fileID: 21300000, guid: c076764ffa180e740b83c21ca29cdd24, type: 3}
+  - {fileID: 21300000, guid: 2c3023a42fdf59c4898d8489e581e312, type: 3}
+  - {fileID: 21300000, guid: bbf607aa34fff184ab8c94a467f9d7a2, type: 3}
+  - {fileID: 21300000, guid: 4bee0bec0df33ce4daa2ea41f57d91f2, type: 3}
+  - {fileID: 21300000, guid: f10ba451283c8c04d80782ab277d8833, type: 3}
+  - {fileID: 21300000, guid: 649ba0f3eb220b741b7564cb5766e195, type: 3}

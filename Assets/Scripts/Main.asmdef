@@ -1,0 +1,10 @@
+{
+    "name": "Main",
+    "references": [
+        "Interfaces"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

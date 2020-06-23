@@ -1,0 +1,15 @@
+{
+    "name": "EditModeTests",
+    "references": [
+        "Main",
+        "Interfaces"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
